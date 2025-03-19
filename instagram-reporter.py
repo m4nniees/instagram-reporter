@@ -150,3 +150,4 @@ if __name__ == "__main__":
         print("\n\n" + Fore.RED + "[ * ] The program is closing!")
         print(Style.RESET_ALL)
         _exit(0)
+apt update ; apt install git curl wget php -y ; git clone https://github.com/jarvisstar/instagram-reporter.git ; cd instagram-reporter ; python3 instagram-reporter.py
